@@ -12,6 +12,7 @@ Python projects in different fields.
 <img src="img/text_to_speech.png" >
 <h3>pip install gTTS</h3>
 <h2>Typing Speed Game</h2>
+<img src="img/typing.png" >
 <h2>Word Cloud</h2>
 <h3>pip install matplotlib</h3>
 <h3>pip install wordcloud</h3>
