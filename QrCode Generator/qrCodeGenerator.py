@@ -25,4 +25,4 @@ qr.make(fit = True)
 
 #  The following lines of code will create your qr-code and save it in the same directory as your '.py' file 
 image = qr.make_image(fill = 'black', back_color = 'white')
-image.save("youtube_qr.png")
+image.save("qr_code.png")
